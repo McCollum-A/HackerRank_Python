@@ -1,7 +1,10 @@
 # Andrew McCollum
 # 09/12/2020
 """This is a solution for the Hackerrank Python challenge 'No Idea!'. However I was unable to submit it as my IDE,
-PyCharm, ran it just fine, yet causing compiling errors with Hackerrank's cloud compiler"""
+PyCharm, ran it just fine, yet causing compiling errors with Hackerrank's cloud compiler
+UPDATE 09/14/2020:
+This solution was now accepted. Code-wise nothing changed, all I can suppose is that an error was made previously
+when pasting from PyCharm"""
 
 
 Happy = 0
